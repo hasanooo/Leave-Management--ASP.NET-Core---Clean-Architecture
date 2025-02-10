@@ -1,25 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\",
+  "WorkspaceRootPath": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|d:\\raihan\\practise\\leave management with clean\\leave-management--asp.net-core---clean-architecture\\hr.leave manegement\\hr.leave manegement.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|solutionrelative:hr.leave manegement.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A783CB20-88B8-4047-9874-C74BB4B98054}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\mahamud\\documents\\leave-management--asp.net-core---clean-architecture\\hr.leave manegement\\hr.leavemanagement.application\\persistence\\contacts\\ileaveallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A783CB20-88B8-4047-9874-C74BB4B98054}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\persistence\\contacts\\ileaveallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|d:\\raihan\\practise\\leave management with clean\\leave-management--asp.net-core---clean-architecture\\hr.leave manegement\\hr.leave manegement.domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A783CB20-88B8-4047-9874-C74BB4B98054}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\mahamud\\documents\\leave-management--asp.net-core---clean-architecture\\hr.leave manegement\\hr.leavemanagement.application\\persistence\\contacts\\ileavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A783CB20-88B8-4047-9874-C74BB4B98054}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\persistence\\contacts\\ileavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A783CB20-88B8-4047-9874-C74BB4B98054}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\mahamud\\documents\\leave-management--asp.net-core---clean-architecture\\hr.leave manegement\\hr.leavemanagement.application\\persistence\\contacts\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A783CB20-88B8-4047-9874-C74BB4B98054}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\persistence\\contacts\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|c:\\users\\mahamud\\documents\\leave-management--asp.net-core---clean-architecture\\hr.leave manegement\\hr.leave manegement.domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|solutionrelative:hr.leave manegement.domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|d:\\raihan\\practise\\leave management with clean\\leave-management--asp.net-core---clean-architecture\\hr.leave manegement\\hr.leave manegement.domain\\leaveallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|solutionrelative:hr.leave manegement.domain\\leaveallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A783CB20-88B8-4047-9874-C74BB4B98054}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\mahamud\\documents\\leave-management--asp.net-core---clean-architecture\\hr.leave manegement\\hr.leavemanagement.application\\persistence\\contacts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A783CB20-88B8-4047-9874-C74BB4B98054}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\persistence\\contacts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|d:\\raihan\\practise\\leave management with clean\\leave-management--asp.net-core---clean-architecture\\hr.leave manegement\\hr.leave manegement.domain\\common\\basedomainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|c:\\users\\mahamud\\documents\\leave-management--asp.net-core---clean-architecture\\hr.leave manegement\\hr.leave manegement.domain\\common\\basedomainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|solutionrelative:hr.leave manegement.domain\\common\\basedomainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|d:\\raihan\\practise\\leave management with clean\\leave-management--asp.net-core---clean-architecture\\hr.leave manegement\\hr.leave manegement.domain\\hr.leave manegement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|c:\\users\\mahamud\\documents\\leave-management--asp.net-core---clean-architecture\\hr.leave manegement\\hr.leave manegement.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|solutionrelative:hr.leave manegement.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|c:\\users\\mahamud\\documents\\leave-management--asp.net-core---clean-architecture\\hr.leave manegement\\hr.leave manegement.domain\\leaveallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|solutionrelative:hr.leave manegement.domain\\leaveallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|c:\\users\\mahamud\\documents\\leave-management--asp.net-core---clean-architecture\\hr.leave manegement\\hr.leave manegement.domain\\hr.leave manegement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D45C9559-7AAC-4D32-A467-CC5942F4D501}|Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj|solutionrelative:hr.leave manegement.domain\\hr.leave manegement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -30,27 +46,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseDomainEntity.cs",
-              "DocumentMoniker": "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Common\\BaseDomainEntity.cs",
-              "RelativeDocumentMoniker": "Hr.Leave Manegement.Domain\\Common\\BaseDomainEntity.cs",
-              "ToolTip": "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Common\\BaseDomainEntity.cs",
-              "RelativeToolTip": "Hr.Leave Manegement.Domain\\Common\\BaseDomainEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "DocumentIndex": 1,
+              "Title": "ILeaveTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\HR.LeaveManagement.Application\\Persistence\\Contacts\\ILeaveTypeRepository.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Persistence\\Contacts\\ILeaveTypeRepository.cs",
+              "ToolTip": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\HR.LeaveManagement.Application\\Persistence\\Contacts\\ILeaveTypeRepository.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Persistence\\Contacts\\ILeaveTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T17:04:46.386Z"
+              "WhenOpened": "2025-02-10T13:05:25.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILeaveAllocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\HR.LeaveManagement.Application\\Persistence\\Contacts\\ILeaveAllocationRepository.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Persistence\\Contacts\\ILeaveAllocationRepository.cs",
+              "ToolTip": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\HR.LeaveManagement.Application\\Persistence\\Contacts\\ILeaveAllocationRepository.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Persistence\\Contacts\\ILeaveAllocationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:04:19.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILeaveRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\HR.LeaveManagement.Application\\Persistence\\Contacts\\ILeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Persistence\\Contacts\\ILeaveRequestRepository.cs",
+              "ToolTip": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\HR.LeaveManagement.Application\\Persistence\\Contacts\\ILeaveRequestRepository.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Persistence\\Contacts\\ILeaveRequestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:58:59.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\HR.LeaveManagement.Application\\Persistence\\Contacts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Persistence\\Contacts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\HR.LeaveManagement.Application\\Persistence\\Contacts\\IGenericRepository.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Persistence\\Contacts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:51:05.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseDomainEntity.cs",
+              "DocumentMoniker": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Common\\BaseDomainEntity.cs",
+              "RelativeDocumentMoniker": "Hr.Leave Manegement.Domain\\Common\\BaseDomainEntity.cs",
+              "ToolTip": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Common\\BaseDomainEntity.cs",
+              "RelativeToolTip": "Hr.Leave Manegement.Domain\\Common\\BaseDomainEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:04:46.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Hr.Leave Manegement.Domain.csproj",
-              "DocumentMoniker": "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj",
               "RelativeDocumentMoniker": "Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj",
-              "ToolTip": "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj",
+              "ToolTip": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj",
               "RelativeToolTip": "Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -58,11 +127,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "LeaveAllocation.cs",
-              "DocumentMoniker": "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\LeaveAllocation.cs",
+              "DocumentMoniker": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\LeaveAllocation.cs",
               "RelativeDocumentMoniker": "Hr.Leave Manegement.Domain\\LeaveAllocation.cs",
-              "ToolTip": "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\LeaveAllocation.cs",
+              "ToolTip": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\LeaveAllocation.cs",
               "RelativeToolTip": "Hr.Leave Manegement.Domain\\LeaveAllocation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,28 +139,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LeaveRequest.cs",
-              "DocumentMoniker": "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\LeaveRequest.cs",
               "RelativeDocumentMoniker": "Hr.Leave Manegement.Domain\\LeaveRequest.cs",
-              "ToolTip": "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\LeaveRequest.cs",
               "RelativeToolTip": "Hr.Leave Manegement.Domain\\LeaveRequest.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T16:47:49.638Z"
+              "WhenOpened": "2025-02-09T16:47:49.638Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "LeaveType.cs",
-              "DocumentMoniker": "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\LeaveType.cs",
+              "DocumentMoniker": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\LeaveType.cs",
               "RelativeDocumentMoniker": "Hr.Leave Manegement.Domain\\LeaveType.cs",
-              "ToolTip": "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\LeaveType.cs",
+              "ToolTip": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\LeaveType.cs",
               "RelativeToolTip": "Hr.Leave Manegement.Domain\\LeaveType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T16:43:56.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T16:43:56.816Z"
             }
           ]
         }

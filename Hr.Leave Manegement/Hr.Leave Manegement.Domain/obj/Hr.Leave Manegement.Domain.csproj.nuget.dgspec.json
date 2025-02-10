@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj": {}
+    "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj": {}
   },
   "projects": {
-    "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj": {
+    "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj",
         "projectName": "Hr.Leave Manegement.Domain",
-        "projectPath": "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj",
-        "packagesPath": "C:\\Users\\MAHAMUD\\.nuget\\packages\\",
-        "outputPath": "D:\\RaiHan\\practise\\Leave Management With Clean\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\obj\\",
+        "projectPath": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\Hr.Leave Manegement.Domain.csproj",
+        "packagesPath": "C:\\Users\\mahamud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahamud\\Documents\\Leave-Management--ASP.NET-Core---Clean-Architecture\\Hr.Leave Manegement\\Hr.Leave Manegement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\MAHAMUD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mahamud\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
