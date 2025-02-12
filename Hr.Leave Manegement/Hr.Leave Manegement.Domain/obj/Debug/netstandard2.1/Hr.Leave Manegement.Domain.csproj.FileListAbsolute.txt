@@ -7,3 +7,13 @@ D:\RaiHan\practise\Hr.Leave Manegement\Hr.Leave Manegement.Domain\obj\Debug\nets
 D:\RaiHan\practise\Hr.Leave Manegement\Hr.Leave Manegement.Domain\obj\Debug\netstandard2.1\Hr.Leave Manegement.Domain.csproj.CoreCompileInputs.cache
 D:\RaiHan\practise\Hr.Leave Manegement\Hr.Leave Manegement.Domain\obj\Debug\netstandard2.1\Hr.Leave Manegement.Domain.dll
 D:\RaiHan\practise\Hr.Leave Manegement\Hr.Leave Manegement.Domain\obj\Debug\netstandard2.1\Hr.Leave Manegement.Domain.pdb
+C:\Users\mahamud\Documents\Leave-Management--ASP.NET-Core---Clean-Architecture\Hr.Leave Manegement\Hr.Leave Manegement.Domain\bin\Debug\netstandard2.1\Hr.Leave Manegement.Domain.deps.json
+C:\Users\mahamud\Documents\Leave-Management--ASP.NET-Core---Clean-Architecture\Hr.Leave Manegement\Hr.Leave Manegement.Domain\bin\Debug\netstandard2.1\Hr.Leave Manegement.Domain.dll
+C:\Users\mahamud\Documents\Leave-Management--ASP.NET-Core---Clean-Architecture\Hr.Leave Manegement\Hr.Leave Manegement.Domain\bin\Debug\netstandard2.1\Hr.Leave Manegement.Domain.pdb
+C:\Users\mahamud\Documents\Leave-Management--ASP.NET-Core---Clean-Architecture\Hr.Leave Manegement\Hr.Leave Manegement.Domain\obj\Debug\netstandard2.1\Hr.Leave Manegement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahamud\Documents\Leave-Management--ASP.NET-Core---Clean-Architecture\Hr.Leave Manegement\Hr.Leave Manegement.Domain\obj\Debug\netstandard2.1\Hr.Leave Manegement.Domain.AssemblyInfoInputs.cache
+C:\Users\mahamud\Documents\Leave-Management--ASP.NET-Core---Clean-Architecture\Hr.Leave Manegement\Hr.Leave Manegement.Domain\obj\Debug\netstandard2.1\Hr.Leave Manegement.Domain.AssemblyInfo.cs
+C:\Users\mahamud\Documents\Leave-Management--ASP.NET-Core---Clean-Architecture\Hr.Leave Manegement\Hr.Leave Manegement.Domain\obj\Debug\netstandard2.1\Hr.Leave Manegement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mahamud\Documents\Leave-Management--ASP.NET-Core---Clean-Architecture\Hr.Leave Manegement\Hr.Leave Manegement.Domain\obj\Debug\netstandard2.1\Hr.Leave Manegement.Domain.sourcelink.json
+C:\Users\mahamud\Documents\Leave-Management--ASP.NET-Core---Clean-Architecture\Hr.Leave Manegement\Hr.Leave Manegement.Domain\obj\Debug\netstandard2.1\Hr.Leave Manegement.Domain.dll
+C:\Users\mahamud\Documents\Leave-Management--ASP.NET-Core---Clean-Architecture\Hr.Leave Manegement\Hr.Leave Manegement.Domain\obj\Debug\netstandard2.1\Hr.Leave Manegement.Domain.pdb
