@@ -7,10 +7,17 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Hr.Leave Manegement.Domain\Hr.Leave Manegement.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Freatures\LeaveTypes\Handlers\Commands\" />
+    <Folder Include="Freatures\LeaveTypes\Handlers\Queries\" />
+    <Folder Include="Freatures\LeaveTypes\Requests\" />
   </ItemGroup>
 
 </Project>
