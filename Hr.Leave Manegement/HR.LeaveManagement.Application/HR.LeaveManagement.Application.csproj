@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <Folder Include="Freatures\LeaveTypes\Handlers\Commands\" />
+    <Folder Include="Freatures\LeaveTypes\Requests\Commands\" />
   </ItemGroup>
 
 </Project>
